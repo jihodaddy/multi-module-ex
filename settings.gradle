@@ -1,0 +1,8 @@
+rootProject.name = 'multi-module-ex'
+include 'common'
+include 'domain'
+include 'batch'
+include 'web-base'
+include 'web-front'
+include 'web-admin'
+
