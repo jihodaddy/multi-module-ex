@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69655fda-706f-48f5-9201-44f7fa2f3b0e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    <list default="true" id="69655fda-706f-48f5-9201-44f7fa2f3b0e" name="Changes" comment="multi module ex">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/batch/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/batch/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663953467060</updated>
     </task>
+    <task id="LOCAL-00001" summary="multi module ex">
+      <created>1664289172349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664289172349</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="multi module ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="multi module ex" />
   </component>
 </project>
